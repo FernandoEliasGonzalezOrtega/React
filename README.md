@@ -1,2 +1,3 @@
 # React
-Prácticas de react
+
+Prácticas de react.
